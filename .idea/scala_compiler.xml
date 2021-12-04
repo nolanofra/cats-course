@@ -4,5 +4,6 @@
     <profile name="sbt 1" modules="cats">
       <option name="higherKinds" value="true" />
     </profile>
+    <profile name="sbt 2" modules="cats-course_1336" />
   </component>
 </project>
