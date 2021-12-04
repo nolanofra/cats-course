@@ -13,3 +13,4 @@ object Playground {
     println(meaningOfLife.value)
   }
 }
+  
