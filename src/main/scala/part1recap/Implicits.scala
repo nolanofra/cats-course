@@ -15,7 +15,7 @@ object Implicits {
   impersonableStirng.greet*/
 
   //extension Methods
-  val greeting = "Peter".greet // compiler deoes new new ImpersonableString("Peter").greet
+  val greeting = "Peter".greet // compiler deoes new ImpersonableString("Peter").greet
 
   //importing implicit conversions in scope
 
